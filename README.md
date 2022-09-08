@@ -1,8 +1,8 @@
 # What is this repository about? 🌟
 
 ## I'm really training myself in the language of JavaScript, so I decided to show you guys everything I'm learning and my journey as well.
-Live Demo 💥: https://cheery-dusk-15e1d0.netlify.app/ 
-Local Storage Demo 💥: https://astonishing-churros-f1bd4c.netlify.app/
+- Live Demo 💥: https://cheery-dusk-15e1d0.netlify.app/ 
+- Local Storage Demo 💥: https://astonishing-churros-f1bd4c.netlify.app/
 
 
 ## In this Repo the tools I used were:
